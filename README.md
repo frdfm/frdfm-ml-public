@@ -5,7 +5,7 @@
 You can install the package (```frdfm-ml```) via `pip`:
 
 ```bash
-pip install git+https://github.com/frdfm/frdfm_ml_public.git
+pip install git+https://github.com/frdfm/frdfm-ml-public.git
 ```
 
 ## Usage
